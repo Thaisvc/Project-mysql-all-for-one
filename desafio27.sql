@@ -1,1 +1,1 @@
-UPDATE northwind.order_details SET discount = 15;
+DELETE FROM northwind.order_details;
